@@ -1,2 +1,2 @@
 # angular2 
-this is the first app to get weather condition 
+this is my first angular2 app to get weather condition. 
